@@ -6,9 +6,9 @@
 Soy un apasionado por la programación y siempre estoy buscando explorar y ampliar mis conocimientos. Creo firmemente que un buen profesional siempre debe actualizarse y capacitarse en nuevas tecnologías y herramientas para poder explotar todo su potencial.
 
 Me desenvuelvo con tecnologías como:
-Javascript (Typescript, Node, Express, Prisma, Sequelize, React, Redux)
-HTML5 y CSS3
-Base de datos SQL (Postgresql, MySql)
+Javascript (Typescript, Node, Express, Prisma, Sequelize, React, Redux),
+HTML5 y CSS3,
+Base de datos SQL (Postgresql, MySql),
 Y actualmente estoy formándome en Python y Java.
 
 <h3 align="left">Contacto:</h3>
